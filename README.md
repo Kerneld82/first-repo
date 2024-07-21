@@ -32,3 +32,4 @@ $ pip install fastapi==0.10
 
 @Kerneld82
 
+![Test graph](https://raw.githubusercontent.com/Kerneld82/first-repo/main/a.jpg)
