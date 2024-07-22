@@ -6,7 +6,13 @@ This is repo.
 
 - python^3.10
 - Fastapi==0.10
--- ㅎㅎㅎ
+```python
+Model.ipynb : 학습, 예측
+Model_for_finding_hyperparam.ipynb : GridSearchCV 를 사용한 HyperParameter Tuning (미완성)
+Preprocess_jibun_xy_by_naver.ipynb : Naver Maps API 를 활용한 위도, 경도 결측치 처리
+Preprocess_nearestElemSchool.ipynb : 최단거리 초등학교 피처 생성
+Preprocess_기대인플레이션율.ipynb : 기대인플레이션율 전처리
+```
   
 ## How to start
 
